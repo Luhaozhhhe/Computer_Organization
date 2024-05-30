@@ -1,4 +1,4 @@
-![image](https://github.com/Luhaozhhhe/Computer_Organization/assets/150448469/7fe8dcef-9d03-42a5-a5f3-26b0eac14270)# NKU-CSSE0046-计算机组成原理
+# NKU-CSSE0046-计算机组成原理
 本资源库存储了计算机组成原理——李涛老师班的学习资料，包括实验报告与实验代码
 
 ## Lab1 数据运算：定点加法
